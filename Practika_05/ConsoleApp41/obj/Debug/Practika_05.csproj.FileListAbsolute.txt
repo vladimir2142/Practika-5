@@ -1,0 +1,7 @@
+C:\Users\leged\source\repos\ConsoleApp41\ConsoleApp41\bin\Debug\ConsoleApp41.exe.config
+C:\Users\leged\source\repos\ConsoleApp41\ConsoleApp41\bin\Debug\ConsoleApp41.exe
+C:\Users\leged\source\repos\ConsoleApp41\ConsoleApp41\bin\Debug\ConsoleApp41.pdb
+C:\Users\leged\source\repos\ConsoleApp41\ConsoleApp41\obj\Debug\Practika_05.csprojAssemblyReference.cache
+C:\Users\leged\source\repos\ConsoleApp41\ConsoleApp41\obj\Debug\Practika_05.csproj.CoreCompileInputs.cache
+C:\Users\leged\source\repos\ConsoleApp41\ConsoleApp41\obj\Debug\ConsoleApp41.exe
+C:\Users\leged\source\repos\ConsoleApp41\ConsoleApp41\obj\Debug\ConsoleApp41.pdb
